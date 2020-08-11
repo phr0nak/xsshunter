@@ -5,3 +5,4 @@ gui/guienv/*
 .DS_Store
 api/uploads/*
 env
+secrets/*
